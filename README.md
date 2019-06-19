@@ -1,3 +1,3 @@
 slcmd
-＃!/bin/bash
-sl -a
+
+#情報社会論
